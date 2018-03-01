@@ -31,5 +31,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  array.count-1
+  array.count = x 
+  array[x-1]
 end
